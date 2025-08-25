@@ -31,7 +31,7 @@ Enjoy pixel-perfect movement, food pickups, score tracking, sounds, and support 
 ---
 
 ### Demonstration Video 
-[![Watch the video](https://img.youtube.com/vi/EVg6gi0o9Ds/0.jpg)](https://www.youtube.com/watch?v=EVg6gi0o9Ds)
+[![Watch the video](https://img.youtube.com/vi/MCFqH_EC0Bs/0.jpg)](https://www.youtube.com/watch?v=MCFqH_EC0Bs)
 
 ## 💻 Run on Desktop (Windows/Linux)
 
